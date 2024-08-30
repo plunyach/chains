@@ -2639,6 +2639,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "tch",
+  "icons": [{
+    "url": "ipfs://QmPvXht4fY5AigcLbC9ZqycN11K3iqjRTMGynfTtM9gYX5",
+    "width": 800,
+    "height": 800,
+    "format": "png"
+  }]
+}, {
   "name": "metadap",
   "icons": [{
     "url": "ipfs://QmcCFUTStKKJKfzTwrjfMFoVaPCMsvAvWXRdDkYMvCkEs3",
@@ -3021,6 +3029,14 @@
     "width": 225,
     "height": 225,
     "format": "png"
+  }]
+}, {
+  "name": "esync",
+  "icons": [{
+    "url": "ipfs://QmVo6h7hQcduywA4j5n5vzB75y2PiVaSN4HuNwgB5XiBsj",
+    "width": 297,
+    "height": 70,
+    "format": "svg"
   }]
 }, {
   "name": "nativ3",
@@ -4468,6 +4484,14 @@
     "url": "ipfs://bafkreibsl7iuxeibovp7uddigbus3lyse2f7n4s2lomgvf33fmgyxjwq5i",
     "width": 1000,
     "height": 1000,
+    "format": "png"
+  }]
+}, {
+  "name": "co2e",
+  "icons": [{
+    "url": "ipfs://Qmdcs7BTuVPjMxfQjfcWdzVeRiXwhzRtRj637pyGRbT9ff",
+    "width": 2400,
+    "height": 2400,
     "format": "png"
   }]
 }, {

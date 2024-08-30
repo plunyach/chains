@@ -2157,6 +2157,19 @@
   "faucets": ["https://faucet-testnet.hscscan.com/"],
   "infoURL": "https://www.hoosmartchain.com"
 }, {
+  "name": "CO2e Ledger",
+  "chainId": 171,
+  "shortName": "CO2e",
+  "networkId": 171,
+  "nativeCurrency": {
+    "name": "CO2e Token",
+    "symbol": "CO2E",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.co2ledger.xyz"],
+  "faucets": [],
+  "infoURL": "https://co2ledger.xyz"
+}, {
   "name": "Latam-Blockchain Resil Testnet",
   "chainId": 172,
   "shortName": "resil",
@@ -7089,8 +7102,8 @@
   "shortName": "pivotal-mainnet",
   "networkId": 1648,
   "nativeCurrency": {
-    "name": "Pivotal Plus",
-    "symbol": "PLUS",
+    "name": "Pivotal ETH",
+    "symbol": "ETH",
     "decimals": 18
   },
   "rpc": ["https://mainnet.pivotalprotocol.com"],
@@ -14642,8 +14655,8 @@
   "shortName": "pivotal-sepolia",
   "networkId": 16481,
   "nativeCurrency": {
-    "name": "Pivotal Plus",
-    "symbol": "PLUS",
+    "name": "Pivotal ETH",
+    "symbol": "ETH",
     "decimals": 18
   },
   "rpc": ["https://sepolia.pivotalprotocol.com"],
@@ -17382,16 +17395,29 @@
 }, {
   "name": "eCredits Testnet",
   "chainId": 63001,
-  "shortName": "ecs-testnet",
+  "shortName": "ecs-testnet-old",
   "networkId": 63001,
   "nativeCurrency": {
     "name": "eCredits",
     "symbol": "ECS",
     "decimals": 18
   },
-  "rpc": ["https://rpc.tst.ecredits.com"],
+  "rpc": [],
   "faucets": ["https://faucet.tst.ecredits.com"],
   "infoURL": "https://ecredits.com"
+}, {
+  "name": "eSync Network Testnet",
+  "chainId": 63002,
+  "shortName": "esync-testnet",
+  "networkId": 63002,
+  "nativeCurrency": {
+    "name": "eCredits",
+    "symbol": "ECS",
+    "decimals": 18
+  },
+  "rpc": ["http://rpc.tst.esync.network"],
+  "faucets": ["https://faucet.tst.ecredits.com"],
+  "infoURL": "https://esync.network"
 }, {
   "name": "CratD2C Testnet",
   "chainId": 65349,
