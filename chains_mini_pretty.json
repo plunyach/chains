@@ -18825,7 +18825,7 @@
 }, {
   "name": "Tetron Testnet Smart Chain",
   "chainId": 97053,
-  "shortName": "Tetron Testnet",
+  "shortName": "TetronTestnet",
   "networkId": 97053,
   "nativeCurrency": {
     "name": "Tetron Testnet",
