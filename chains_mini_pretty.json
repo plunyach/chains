@@ -11205,6 +11205,19 @@
   "faucets": ["https://t.me/vexfaucetbot"],
   "infoURL": "https://vexanium.com"
 }, {
+  "name": "DuckChain Mainnet",
+  "chainId": 5545,
+  "shortName": "Duck-Chain-Mainnet",
+  "networkId": 5545,
+  "nativeCurrency": {
+    "name": "TON",
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.duckchain.io", "https://rpc-hk.duckchain.io"],
+  "faucets": [],
+  "infoURL": "https://duckchain.io"
+}, {
   "name": "Nahmii 2 Mainnet",
   "chainId": 5551,
   "shortName": "Nahmii",
@@ -12777,6 +12790,19 @@
   "rpc": ["https://api.dracones.net/"],
   "faucets": [],
   "infoURL": "https://wolfery.com"
+}, {
+  "name": "THAT Mainnet",
+  "chainId": 8428,
+  "shortName": "THAT",
+  "networkId": 8428,
+  "nativeCurrency": {
+    "name": "THAT",
+    "symbol": "THAT",
+    "decimals": 18
+  },
+  "rpc": ["https://api.thatchain.io", "https://api.thatchain.io/mainnet"],
+  "faucets": [],
+  "infoURL": "https://that.website"
 }, {
   "name": "Base",
   "chainId": 8453,
@@ -14688,6 +14714,19 @@
   "rpc": ["https://test-rpc.vitruveo.xyz"],
   "faucets": ["https://faucet.vitruveo.xyz"],
   "infoURL": "https://www.vitruveo.xyz"
+}, {
+  "name": "Vana Moksha Testnet",
+  "chainId": 14800,
+  "shortName": "vana-moksha",
+  "networkId": 14800,
+  "nativeCurrency": {
+    "name": "VANA",
+    "symbol": "VANA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.moksha.vana.org"],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "Vana Satori Testnet",
   "chainId": 14801,
@@ -18833,6 +18872,19 @@
     "decimals": 18
   },
   "rpc": ["https://test-rpc.tscscan.org"],
+  "faucets": [],
+  "infoURL": "https://tetronchain.com/"
+}, {
+  "name": "Tetron Smart Chain",
+  "chainId": 97055,
+  "shortName": "Tetron",
+  "networkId": 97055,
+  "nativeCurrency": {
+    "name": "Tetron Mainnet",
+    "symbol": "TSC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.tscscan.org"],
   "faucets": [],
   "infoURL": "https://tetronchain.com/"
 }, {

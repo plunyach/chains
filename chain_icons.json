@@ -215,6 +215,14 @@
     "format": "png"
   }]
 }, {
+  "name": "vanamoksha",
+  "icons": [{
+    "url": "ipfs://Qqbx32iq4Vw4zLaaPit9aaguXJzdiocstVQWtSfreQPuSC",
+    "width": 28,
+    "height": 28,
+    "format": "svg"
+  }]
+}, {
   "name": "etmp",
   "icons": [{
     "url": "ipfs://QmT7DTqT1V2y42pRpt3sj9ifijfmbtkHN7D2vTfAUAS622",
@@ -645,6 +653,14 @@
     "width": 500,
     "height": 500,
     "format": "png"
+  }]
+}, {
+  "name": "that",
+  "icons": [{
+    "url": "ipfs://QmQM3TAFBskGGpog4EZkEGj2svtmTbxzcNZBcbWCMnu5JL",
+    "width": 640,
+    "height": 640,
+    "format": "svg"
   }]
 }, {
   "name": "frameTestnet",

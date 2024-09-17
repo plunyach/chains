@@ -18087,6 +18087,22 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "DuckChain Mainnet",
+  "title": "DuckChain Mainnet",
+  "chain": "DuckChain",
+  "icon": "duckchain",
+  "rpc": ["https://rpc.duckchain.io", "https://rpc-hk.duckchain.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "TON",
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "infoURL": "https://duckchain.io",
+  "shortName": "Duck-Chain-Mainnet",
+  "chainId": 5545,
+  "networkId": 5545
+}, {
   "name": "Nahmii 2 Mainnet",
   "chain": "Nahmii",
   "rpc": ["https://l2.nahmii.io"],
@@ -20642,6 +20658,27 @@
   "networkId": 8387,
   "icon": "dracones",
   "explorers": []
+}, {
+  "name": "THAT Mainnet",
+  "chain": "THAT",
+  "rpc": ["https://api.thatchain.io", "https://api.thatchain.io/mainnet"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "THAT",
+    "symbol": "THAT",
+    "decimals": 18
+  },
+  "infoURL": "https://that.website",
+  "shortName": "THAT",
+  "chainId": 8428,
+  "networkId": 8428,
+  "icon": "that",
+  "explorers": [{
+    "name": "THAT Explorer",
+    "url": "https://that.blockscout.com",
+    "icon": "blockscout",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Base",
   "chain": "ETH",
@@ -23712,6 +23749,26 @@
     "url": "https://test-explorer.vitruveo.xyz",
     "icon": "vitruveo",
     "standard": "EIP3091"
+  }]
+}, {
+  "name": "Vana Moksha Testnet",
+  "chain": "Vana Moksha Testnet",
+  "rpc": ["https://rpc.moksha.vana.org"],
+  "nativeCurrency": {
+    "name": "VANA",
+    "symbol": "VANA",
+    "decimals": 18
+  },
+  "faucets": [],
+  "infoURL": "",
+  "shortName": "vana-moksha",
+  "chainId": 14800,
+  "networkId": 14800,
+  "explorers": [{
+    "name": "Vana Moksha Testnet",
+    "url": "https://vanascan.io",
+    "icon": "vanamoksha",
+    "standard": "none"
   }]
 }, {
   "name": "Vana Satori Testnet",
@@ -30593,6 +30650,28 @@
   "explorers": [{
     "name": "Tetron Explorer",
     "url": "https://testnet.tscscan.org",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "Tetron Smart Chain",
+  "chain": "Tetron Mainnet",
+  "rpc": ["https://rpc.tscscan.org"],
+  "faucets": [],
+  "features": [{
+    "name": "EIP155"
+  }],
+  "nativeCurrency": {
+    "name": "Tetron Mainnet",
+    "symbol": "TSC",
+    "decimals": 18
+  },
+  "infoURL": "https://tetronchain.com/",
+  "shortName": "Tetron",
+  "chainId": 97055,
+  "networkId": 97055,
+  "explorers": [{
+    "name": "Tetron Smart ChainExplorer",
+    "url": "https://tscscan.org",
     "standard": "EIP3091"
   }]
 }, {
